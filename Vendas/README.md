@@ -1,5 +1,5 @@
 ## Spring Boot e Angular
 
-### Controle de serviço de clientes
+### Registro de serviço de clientes
 
 ##### projeto em andamento...
